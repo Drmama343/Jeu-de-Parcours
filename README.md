@@ -1,5 +1,6 @@
-# SAE 2.02
-# Étape 1
+# Jeu de Parcours
+
+## Objectif
 
 • La structure d’un fichier et l’algorithme qui permet de le lire et générer le graphe
   
@@ -7,7 +8,7 @@
 
 • Faire le diagramme UML de votre projet.
 
-## Contraintes
+## Règles
 
 1. Chaque sommet a une position (x,y) sur un plan 
  

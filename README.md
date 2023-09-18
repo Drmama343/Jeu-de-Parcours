@@ -2,25 +2,11 @@
 
 ## Objectif
 
-• La structure d’un fichier et l’algorithme qui permet de le lire et générer le graphe
-  
-• Définir comment on pourra choisir une arête qu’on va colorier.
-
-• Faire le diagramme UML de votre projet.
-
 ## Règles
 
-1. Chaque sommet a une position (x,y) sur un plan 
- 
-  Pour répondre à cette contrainte, nous avons réfléchis à mettre des attributs a nos noeux, deux précisément. Un pour les 'x' et un autre pour les 'y', compris sur un plan abscisse/ordonnée.
+## Comment jouer
 
-2. Chaque sommet appartient à une région (sous-graphe) et une seule
-3. Chaque sommet est relié à d’autres sommets (arêtes),
-4. Les arêtes peuvent être valuées et peuvent être colorées,
-5. Par la suite, on va colorier les arêtes de façon manuelle, avec des contraintes.
-
-  Pour colorier une arête, nous allons placer sur l'interface deux champs de texte pour préciser le sommet que la personne veut colorier et en quelle couleur.
-
+Pour sélectionner une arète, il vous suffit de cliquer sur deux sommet, ensuite l'arète ( si il y en a une valide ) se met alors en couleur il ne vous reste plus qu'à valider.
 
 
 ## Diagramme UML
